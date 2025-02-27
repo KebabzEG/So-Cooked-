@@ -1,5 +1,4 @@
 
-[U# IE0005 Group 1
 ## Cuisine Prediction from Ingredients
 
 Problem statement: How can we classify the category of cuisine given a list of ingredients from a recipe?
