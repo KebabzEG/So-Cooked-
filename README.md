@@ -1,4 +1,4 @@
-[SoCooked.md](https://github.com/user-attachments/files/19004360/SoCooked.md)
+
 [U# IE0005 Group 1
 ## Cuisine Prediction from Ingredients
 
